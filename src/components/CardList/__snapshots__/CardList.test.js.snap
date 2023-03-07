@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardList Component Tests Renders Correctly with No Props 1`] = `
+<div>
+  <div
+    className="bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5"
+  >
+    <img
+      alt="robot"
+      data-testid="id-img-element"
+      src="https://robohash.org/1?size=200x200"
+    />
+    <div>
+      <h2
+        data-testid="name-h2-element"
+      >
+        John Snow
+      </h2>
+      <p
+        data-testid="email-p-element"
+      >
+        john@gmail.com
+      </p>
+    </div>
+  </div>
+</div>
+`;
